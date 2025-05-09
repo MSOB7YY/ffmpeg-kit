@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 03 03:55:53 EET 2025
+min_binary-6.0-2.aar>=
+min_binary-6.0-2.pom>=

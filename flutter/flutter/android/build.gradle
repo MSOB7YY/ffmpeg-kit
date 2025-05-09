@@ -49,4 +49,8 @@ android {
 
 dependencies {
     implementation 'androidx.annotation:annotation:1.5.0'
+    
+    implementation "com.local.ffmpeg-kit:full_binary:6.0-2"
+    implementation files('./repo/smart-exception-java-0.2.1.jar')
+    implementation files('./repo/smart-exception-common-0.2.1.jar')
 }
